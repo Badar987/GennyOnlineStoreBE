@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GennyOnlineStoreBE")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c328278d8ea76e34168d48d9284b1b08579dad08")]
 [assembly: System.Reflection.AssemblyProductAttribute("GennyOnlineStoreBE")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GennyOnlineStoreBE")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
