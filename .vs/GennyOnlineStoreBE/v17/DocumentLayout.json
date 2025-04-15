@@ -3,28 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\AL MAKKAH\\Desktop\\GennyOnlineStoreF\\BE\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{46C975E6-68C6-4FA6-9C4F-4DF32B58EC6A}|GennyOnlineStoreBE.csproj|c:\\users\\al makkah\\desktop\\gennyonlinestoref\\be\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{46C975E6-68C6-4FA6-9C4F-4DF32B58EC6A}|GennyOnlineStoreBE.csproj|solutionrelative:models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{46C975E6-68C6-4FA6-9C4F-4DF32B58EC6A}|GennyOnlineStoreBE.csproj|c:\\users\\al makkah\\desktop\\gennyonlinestoref\\be\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{46C975E6-68C6-4FA6-9C4F-4DF32B58EC6A}|GennyOnlineStoreBE.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{46C975E6-68C6-4FA6-9C4F-4DF32B58EC6A}|GennyOnlineStoreBE.csproj|c:\\users\\al makkah\\desktop\\gennyonlinestoref\\be\\models\\applicationusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{46C975E6-68C6-4FA6-9C4F-4DF32B58EC6A}|GennyOnlineStoreBE.csproj|solutionrelative:models\\applicationusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{46C975E6-68C6-4FA6-9C4F-4DF32B58EC6A}|GennyOnlineStoreBE.csproj|c:\\users\\al makkah\\desktop\\gennyonlinestoref\\be\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46C975E6-68C6-4FA6-9C4F-4DF32B58EC6A}|GennyOnlineStoreBE.csproj|solutionrelative:models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{46C975E6-68C6-4FA6-9C4F-4DF32B58EC6A}|GennyOnlineStoreBE.csproj|c:\\users\\al makkah\\desktop\\gennyonlinestoref\\be\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{46C975E6-68C6-4FA6-9C4F-4DF32B58EC6A}|GennyOnlineStoreBE.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{46C975E6-68C6-4FA6-9C4F-4DF32B58EC6A}|GennyOnlineStoreBE.csproj|c:\\users\\al makkah\\desktop\\gennyonlinestoref\\be\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{46C975E6-68C6-4FA6-9C4F-4DF32B58EC6A}|GennyOnlineStoreBE.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{46C975E6-68C6-4FA6-9C4F-4DF32B58EC6A}|GennyOnlineStoreBE.csproj|c:\\users\\al makkah\\desktop\\gennyonlinestoref\\be\\migrations\\20250415184816_createidentitytable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46C975E6-68C6-4FA6-9C4F-4DF32B58EC6A}|GennyOnlineStoreBE.csproj|solutionrelative:migrations\\20250415184816_createidentitytable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{46C975E6-68C6-4FA6-9C4F-4DF32B58EC6A}|GennyOnlineStoreBE.csproj|c:\\users\\al makkah\\desktop\\gennyonlinestoref\\be\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{46C975E6-68C6-4FA6-9C4F-4DF32B58EC6A}|GennyOnlineStoreBE.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46C975E6-68C6-4FA6-9C4F-4DF32B58EC6A}|GennyOnlineStoreBE.csproj|c:\\users\\al makkah\\desktop\\gennyonlinestoref\\be\\models\\applicationusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46C975E6-68C6-4FA6-9C4F-4DF32B58EC6A}|GennyOnlineStoreBE.csproj|solutionrelative:models\\applicationusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,11 +30,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\AL MAKKAH\\Desktop\\GennyOnlineStoreF\\BE\\Models\\AppDbContext.cs",
               "RelativeDocumentMoniker": "Models\\AppDbContext.cs",
@@ -52,20 +48,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
+              "Title": "20250415184816_CreateIdentityTable.cs",
+              "DocumentMoniker": "C:\\Users\\AL MAKKAH\\Desktop\\GennyOnlineStoreF\\BE\\Migrations\\20250415184816_CreateIdentityTable.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250415184816_CreateIdentityTable.cs",
+              "ToolTip": "C:\\Users\\AL MAKKAH\\Desktop\\GennyOnlineStoreF\\BE\\Migrations\\20250415184816_CreateIdentityTable.cs",
+              "RelativeToolTip": "Migrations\\20250415184816_CreateIdentityTable.cs",
+              "ViewState": "AgIAAJQAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T18:48:18.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\AL MAKKAH\\Desktop\\GennyOnlineStoreF\\BE\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
               "ToolTip": "C:\\Users\\AL MAKKAH\\Desktop\\GennyOnlineStoreF\\BE\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-03-26T17:38:51.53Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "ApplicationUsers.cs",
               "DocumentMoniker": "C:\\Users\\AL MAKKAH\\Desktop\\GennyOnlineStoreF\\BE\\Models\\ApplicationUsers.cs",
               "RelativeDocumentMoniker": "Models\\ApplicationUsers.cs",
@@ -79,38 +88,12 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\AL MAKKAH\\Desktop\\GennyOnlineStoreF\\BE\\Models\\Product.cs",
-              "RelativeDocumentMoniker": "Models\\Product.cs",
-              "ToolTip": "C:\\Users\\AL MAKKAH\\Desktop\\GennyOnlineStoreF\\BE\\Models\\Product.cs",
-              "RelativeToolTip": "Models\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-24T17:21:16.733Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "C:\\Users\\AL MAKKAH\\Desktop\\GennyOnlineStoreF\\BE\\Controllers\\WeatherForecastController.cs",
-              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
-              "ToolTip": "C:\\Users\\AL MAKKAH\\Desktop\\GennyOnlineStoreF\\BE\\Controllers\\WeatherForecastController.cs",
-              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAqwBcAAAA6AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-23T09:46:57.25Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\AL MAKKAH\\Desktop\\GennyOnlineStoreF\\BE\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\AL MAKKAH\\Desktop\\GennyOnlineStoreF\\BE\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAB8AAAAAAAAAA==",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADMAAAB6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-22T18:46:49.59Z",
               "EditorCaption": ""
