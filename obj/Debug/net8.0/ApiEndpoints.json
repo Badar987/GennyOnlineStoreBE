@@ -1,5 +1,37 @@
 [
   {
+    "ContainingType": "GennyOnlineStoreBE.Controllers.UserAuthController",
+    "Method": "Login",
+    "RelativePath": "api/UserAuth/Login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "loginModel",
+        "Type": "GennyOnlineStoreBE.Models.LoginModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GennyOnlineStoreBE.Controllers.UserAuthController",
+    "Method": "Register",
+    "RelativePath": "api/UserAuth/Register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "registerModel",
+        "Type": "GennyOnlineStoreBE.Models.RegisterModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "GennyOnlineStoreBE.Controllers.WeatherForecastController",
     "Method": "Get",
     "RelativePath": "WeatherForecast",
