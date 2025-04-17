@@ -17,6 +17,16 @@
   },
   {
     "ContainingType": "GennyOnlineStoreBE.Controllers.UserAuthController",
+    "Method": "Logout",
+    "RelativePath": "api/UserAuth/LogOut",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GennyOnlineStoreBE.Controllers.UserAuthController",
     "Method": "Register",
     "RelativePath": "api/UserAuth/Register",
     "HttpMethod": "POST",

@@ -2,9 +2,15 @@
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.IdentityModel.Tokens;
+using System.IdentityModel.Tokens.Jwt;
+using System.Security.Claims;
+using System.Text;
 
 namespace GennyOnlineStoreBE.Controllers
 {
+    //https://.postman.co/workspace/My-Workspace~85ca7cfa-9a1c-4e11-8d5c-4eaa58bc3b9b/collection/33668791-bc1904cd-9f61-4170-b594-18072ceeee4d?action=share&creator=33668791
+    //Envirnment Link To test api on Postman
     [Route("api/[controller]")]
     [ApiController]
     //baseurl/api/UserAuth
@@ -80,12 +86,35 @@ namespace GennyOnlineStoreBE.Controllers
 
             var token = GenerateJwtToken(user);
 
-            return Ok(token);
+            return Ok(new {sucess = true, token});
         }
 
+        [HttpPost("LogOut")]
+        public async Task<IActionResult> Logout()
+        {
+            await _signinManager.SignOutAsync();
+            return Ok("User LogOut Out Successfully");
+        }
         private string GenerateJwtToken(ApplicationUsers user)
         {
-            return "AsliBabaChaliChor";
+            var Claims = new[]
+            {
+            new Claim(JwtRegisteredClaimNames.Sub, user.Id),
+            new Claim(JwtRegisteredClaimNames.Email, user.Email),
+            new Claim(JwtRegisteredClaimNames.Jti, Guid.NewGuid().ToString()),
+            new Claim("Name",user.Name)
+            };
+
+            var key = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(_jwtKey));
+
+            var creds = new SigningCredentials(key, SecurityAlgorithms.HmacSha256);
+
+            var token = new JwtSecurityToken(
+                claims: Claims,
+                expires: DateTime.Now.AddMinutes(_ExpiryMinutes),
+                signingCredentials: creds
+                );
+            return new JwtSecurityTokenHandler().WriteToken(token);
         }
     }
 }
